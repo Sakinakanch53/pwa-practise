@@ -1,0 +1,14 @@
+{
+    "name": "progressive web app",
+    "short_name": "pwa-node-app",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#CE725E",
+    "theme_color": "#317EFB",
+    "orientation": "portrait-primary",
+    "icons": [{
+        "src": "girl.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }]
+}
